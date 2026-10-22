@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:boards.greenhouse.io)",
+      "WebFetch(domain:jobs.ashbyhq.com)",
+      "WebFetch(domain:jobs.lever.co)",
+      "WebFetch(domain:news.ycombinator.com)",
+      "WebFetch(domain:remotive.com)",
+      "WebFetch(domain:himalayas.app)",
+      "WebFetch(domain:jobicy.com)",
+      "Bash(python3 fetch_jobs.py *)",
+      "Bash(python3 tracker.py *)"
+    ]
+  }
+}

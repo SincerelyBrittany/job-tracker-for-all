@@ -1,0 +1,14 @@
+# Your personal files: never committed
+tracker.xlsx
+~$*.xlsx
+profile.md
+master-resume.md
+companies.txt
+tailored-resumes/
+.claude/settings.local.json
+
+__pycache__/
+.venv/
+.pytest_cache/
+.ruff_cache/
+.DS_Store

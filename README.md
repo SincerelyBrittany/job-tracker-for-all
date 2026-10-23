@@ -6,13 +6,11 @@ Keep your whole job search in one place. Use it as a simple spreadsheet, or let 
 
 ## Not technical? Start here
 
-**[Download the job tracker spreadsheet](google-sheet/Job-Tracker-Template.xlsx)** (click the file, then the download button).
+**[Make your own copy in Google Sheets](https://docs.google.com/spreadsheets/d/1AHKWviWrDwRIljpX6n4s971Eh1itvR0WkVLVHwsazHs/copy)**. One click, and it's yours in your own Google Drive.
 
 It has a **Start Here** tab with step-by-step instructions, a **Tracker** with dropdowns for status and fit, and a **Summary** that counts your applications, replies and weekly progress for you.
 
-To use it in Google Sheets: upload it to Google Drive, open it, then choose **File → Save as Google Sheets**. It also works in Excel and Numbers.
-
-<!-- When the public Google Sheet is ready, add: [Make your own copy in Google Sheets](https://docs.google.com/spreadsheets/d/<id>/copy) -->
+Prefer Excel or Numbers? [Download the spreadsheet file](google-sheet/Job-Tracker-Template.xlsx) instead (click the file, then the download button).
 
 ---
 

@@ -1,0 +1,12 @@
+# Company watchlist: fetch_jobs.py pulls these career pages directly every run.
+# Copy this file to companies.txt and list the companies YOU want to watch (companies.txt is git-ignored).
+#
+# Format: <ats> <board-token>      ats = greenhouse | ashby | lever
+# Find the token in the company's careers page address:
+#   boards.greenhouse.io/<token>     jobs.ashbyhq.com/<token>     jobs.lever.co/<token>
+#
+# Examples (public career boards):
+greenhouse gitlab
+greenhouse duolingo
+ashby notion
+lever spotify

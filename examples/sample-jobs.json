@@ -1,0 +1,63 @@
+[
+  {
+    "Date Found": "2026-10-20",
+    "Company": "Example Health",
+    "Title": "Frontend Engineer",
+    "Location/Remote": "Remote (US)",
+    "Salary": "$110,000\u2013$130,000",
+    "Seniority": "Mid",
+    "Match (1-5)": 5,
+    "Why It Fits": "React + TypeScript, health-tech mission, remote US, salary above floor.",
+    "Link": "https://example.com/jobs/frontend-engineer",
+    "Source": "Example board",
+    "Status": "Applied",
+    "Tailored Resume": "tailored-resumes/SWE/example-health-frontend-engineer.md",
+    "Date Applied": "2026-10-21",
+    "Notes": "Referral from a former teammate",
+    "Track": "SWE"
+  },
+  {
+    "Date Found": "2026-10-20",
+    "Company": "Sample Cloud Co",
+    "Title": "Associate Cloud Engineer",
+    "Location/Remote": "Remote (US)",
+    "Salary": "Not listed",
+    "Seniority": "Associate",
+    "Match (1-5)": 4,
+    "Why It Fits": "Entry-level cloud role; AWS + Docker + GitHub Actions all listed.",
+    "Link": "https://example.com/jobs/associate-cloud-engineer",
+    "Source": "Company careers page",
+    "Status": "Approved",
+    "Track": "Cloud"
+  },
+  {
+    "Date Found": "2026-10-19",
+    "Company": "Demo Security Inc",
+    "Title": "SOC Analyst I",
+    "Location/Remote": "Remote (US)",
+    "Salary": "$75,000",
+    "Seniority": "Entry",
+    "Match (1-5)": 3,
+    "Why It Fits": "Good entry point, but salary is under the floor.",
+    "Link": "https://example.com/jobs/soc-analyst-1",
+    "Source": "Example board",
+    "Status": "To Review",
+    "Track": "Cyber"
+  },
+  {
+    "Date Found": "2026-10-18",
+    "Company": "Placeholder Fintech",
+    "Title": "Full-Stack Engineer",
+    "Location/Remote": "Remote (US)",
+    "Salary": "$125,000",
+    "Seniority": "Mid",
+    "Match (1-5)": 4,
+    "Why It Fits": "Node + React, fintech, remote.",
+    "Link": "https://example.com/jobs/full-stack-engineer",
+    "Source": "Hacker News",
+    "Status": "Interviewing",
+    "Date Applied": "2026-10-12",
+    "Notes": "Technical screen on Oct 28",
+    "Track": "SWE"
+  }
+]
